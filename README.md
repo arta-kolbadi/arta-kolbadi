@@ -95,21 +95,7 @@ A Minecraft companion and server management ecosystem.
 ### 💻 Rah Danesh
 A school management and educational software project.
 
----
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arta-kolbadi&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF6A00&icon_color=FF6A00&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arta-kolbadi&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6A00&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=arta-kolbadi&theme=dark&hide_border=true&background=0D0D0D&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=FFFFFF&dates=AAAAAA" />
-
-</div>
 
 ---
 
