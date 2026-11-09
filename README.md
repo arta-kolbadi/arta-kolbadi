@@ -113,15 +113,6 @@ A school management and educational software project.
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arta-kolbadi&bg_color=0D0D0D&color=FF6A00&line=FF6A00&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
 
 ## 🧠 CURRENT FOCUS
 
